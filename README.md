@@ -3,6 +3,9 @@ This repository contains the algorithm used for reconstructing Computer Tomograp
 Everything has been enclosed in the Jupyter Notebook (CT Image Reconstruction.ipynb). If you do not have Jupyter Notebook, you can view the html output which works...
 as long as you have a web browser.
 
+You can see the results here:
+![alt text](https://github.com/Dawnkai/computed-tomography/blob/main/result.png)
+
 The project uses **parallel ray** model, [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm), [Backprojection](http://xrayphysics.com/ctsim.html)
 and [Convolution](https://en.wikipedia.org/wiki/Convolution).
 
